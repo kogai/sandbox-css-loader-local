@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./style.scss"],"names":[],"mappings":"AAAA;EACE,+IAAuF;EACvF,uIAA+E,EAAE","file":"main.css","sourcesContent":[".myAnimation {\n  -webkit-animation: dash 1.5s ease-in-out infinite, colors-dark 6s ease-in-out infinite;\n  animation: dash 1.5s ease-in-out infinite, colors-dark 6s ease-in-out infinite; }\n"],"sourceRoot":""}
