@@ -28,17 +28,17 @@ module.exports = {
               importLoaders: 2,
               localIdentName: "[name]__[local]___[hash:10]"
             }
-          },
-          {
-            loader: "postcss-loader",
-            options: {
-              plugins: () => [
-                autoPrefixer({
-                  grid: true
-                })
-              ]
-            }
           }
+          // {
+          //   loader: "postcss-loader",
+          //   options: {
+          //     plugins: () => [
+          //       autoPrefixer({
+          //         grid: true
+          //       })
+          //     ]
+          //   }
+          // }
         ]
       }
     ]
