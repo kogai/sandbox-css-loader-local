@@ -107,7 +107,7 @@ console.log(stlye);
 /***/ (function(module, exports, __webpack_require__) {
 
 // extracted by mini-css-extract-plugin
-module.exports = {"myAnimation":"style__myAnimation___3100f2fb37","dash":"style__dash___919fdda0f1","colors-dark":"style__colors-dark___01593c4f6f"};
+module.exports = {"myAnimation":"_3pdrTqZcQg9iOGY3vXYw0N","dash":"_3FI34cyUug04lZ4_6wTp-h","colors-dark":"_1k0A7xSkLe9SOEsSZff5A1"};
 
 /***/ })
 

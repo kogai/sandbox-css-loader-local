@@ -1,1 +1,1 @@
-{"version":3,"sources":["webpack:///style.css"],"names":[],"mappings":"AAAA;EACE,+IAA+E;UAA/E,uIAA+E;CAChF","file":"main.css","sourcesContent":[".myAnimation {\n  animation: dash 1.5s ease-in-out infinite, colors-dark 6s ease-in-out infinite;\n}\n"],"sourceRoot":""}
+{"version":3,"sources":["webpack:///./style.css"],"names":[],"mappings":"AAAA;AACA;AACA","file":"main.css","sourcesContent":["._3pdrTqZcQg9iOGY3vXYw0N {\n  animation: _3FI34cyUug04lZ4_6wTp-h 1.5s ease-in-out infinite, _1k0A7xSkLe9SOEsSZff5A1 6s :local(ease-in-out) :local(infinite);\n}\n"],"sourceRoot":""}
