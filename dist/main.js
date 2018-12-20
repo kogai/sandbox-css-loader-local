@@ -93,21 +93,21 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-const style = __webpack_require__(/*! ./style.scss */ "./style.scss");
+const style = __webpack_require__(/*! ./style.css */ "./style.css");
 console.log(stlye);
 
 
 /***/ }),
 
-/***/ "./style.scss":
-/*!********************!*\
-  !*** ./style.scss ***!
-  \********************/
+/***/ "./style.css":
+/*!*******************!*\
+  !*** ./style.css ***!
+  \*******************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 // extracted by mini-css-extract-plugin
-module.exports = {"myAnimation":"style__myAnimation___95495350ac","dash":"style__dash___bcb0b998e7","colors-dark":"style__colors-dark___e3ef7c50c6"};
+module.exports = {"myAnimation":"style__myAnimation___3100f2fb37","dash":"style__dash___919fdda0f1","colors-dark":"style__colors-dark___01593c4f6f"};
 
 /***/ })
 

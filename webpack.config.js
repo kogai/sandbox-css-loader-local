@@ -20,15 +20,6 @@ module.exports = {
           {
             loader: MiniCssExtractPlugin.loader
           },
-          "css-loader"
-        ]
-      },
-      {
-        test: /\.scss$/,
-        use: [
-          {
-            loader: MiniCssExtractPlugin.loader
-          },
           {
             loader: "css-loader",
             query: {
@@ -36,13 +27,6 @@ module.exports = {
               sourceMap: true,
               importLoaders: 2,
               localIdentName: "[name]__[local]___[hash:10]"
-            }
-          },
-          {
-            loader: "sass-loader",
-            options: {
-              outputStyle: "compress",
-              sourceMap: false
             }
           },
           {
